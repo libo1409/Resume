@@ -3,17 +3,17 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             18769570930
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             libo1409@163.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/libo1409">CyC2018</a>
          </span>
          ·
          <span>
@@ -32,10 +32,10 @@
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
+- 硕士，西华大学，计算机技术，2018.9~2021.7
+- 学士，枣庄学院，计算机科学与技术专业，2014.9~2018.7
 - 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 通过了 CET4 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
