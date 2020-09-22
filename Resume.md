@@ -1,5 +1,5 @@
  <center>
-     <h1>XXX</h1>
+     <h1>李博</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -13,7 +13,7 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/libo1409">CyC2018</a>
+             <a href="https://github.com/libo1409">libo1409</a>
          </span>
          ·
          <span>
