@@ -25,38 +25,33 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
+ - 男，1993 年出生
+ - 政治面貌：中共党员
  - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
-
+ 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 硕士，西华大学，计算机技术，2018.9~2021.7
 - 学士，枣庄学院，计算机科学与技术专业，2014.9~2018.7
-- 绩点：***，年级前 100%
-- 通过了 CET4 英语等级考试
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 技能证书
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
-
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-
-- **XXXX 项目**
-
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+- 通过了 CET4 英语等级考试 CET6 396分
+- 通过了 计算机二级 等级考试
+- 普通话水平测试等级证书
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
+- ★★☆ MySQL
+- ★★☆ Mybatis
 - ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★★☆ SpringBoot
+- ★☆☆ JavaScript
+
+## <img src="assets/project-diagram-solid.svg" width="30px"> 个人评价
+
+- 工作积极认真，细心负责，善于在工作中提出问题、发现问题、解决问题；勤奋好学，踏实肯干，动手能力强，认真负责，有很强的社会责任感。
+善于与人沟通，有较强的团队合作精神，吃苦耐劳，追求完美。
+
+  
