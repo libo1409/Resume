@@ -25,7 +25,7 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1993 年出生
+ - 男，1994 年出生
  - 政治面貌：中共党员
  - 求职意向：Java 研发工程师
  
@@ -36,13 +36,13 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
--**小滴课堂在线 项目**
+ - **小滴课堂在线教育 项目**
 
-  *后端：spring2.x + mybatis + JWT + Guava* 
+ - *后端：spring2.x + mybatis + JWT + Guava* 
   
-  *前端：Vue+CubeUI+Axios+Vuex*
+ - *前端：Vue+CubeUI+Axios+Vuex*
   
-   项目主要是以小滴课堂为模板进行开发，前端实现视频列表展示、下单模块、个人信息展示，后端主要完成用户登录注册接口、用户信息查询接口、视频列表接口、订单接口等模块的开发。
+ -  项目主要是以小滴课堂为模板进行开发，前端实现视频列表展示、下单模块、个人信息展示，后端主要完成用户登录注册接口、用户信息查询接口、视频列表接口、订单接口等模块的开发。
   
   （正在部署阿里云服务器）
 
