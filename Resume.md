@@ -34,6 +34,18 @@
 - 硕士，西华大学，计算机技术，2018.9~2021.7
 - 学士，枣庄学院，计算机科学与技术专业，2014.9~2018.7
 
+## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+
+- ** 小滴课堂在线教育项目**
+
+  *后端：spring2.x + mybatis + JWT + Guava* 
+  
+  *前端：Vue+CubeUI+Axios+Vuex*
+  
+  项目主要是以小滴课堂为模板进行开发，前端实现视频列表展示、下单模块、个人信息展示，后端主要完成用户登录注册接口、用户信息查询接口、视频列表接口、
+  
+  订单接口等模板的开发。
+
 ## <img src="assets/briefcase-solid.svg" width="30px"> 技能证书
 
 - 通过了 CET4 英语等级考试 CET6 396分
