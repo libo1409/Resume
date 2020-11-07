@@ -34,6 +34,15 @@
 - 硕士，西华大学，计算机技术，2018.9~2021.7
 - 学士，枣庄学院，计算机科学与技术专业，2014.9~2018.7
 
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+
+- ★★★ Java
+- ★★☆ MySQL
+- ★★☆ Mybatis
+- ★★☆ Spring
+- ★★☆ SpringBoot
+- ★☆☆ JavaScript
+
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
  - **小滴课堂在线教育 项目**
@@ -44,26 +53,18 @@
   
  -  项目主要是以小滴课堂为模板进行开发，前端实现视频列表展示、下单模块、个人信息展示，后端主要完成用户登录注册接口、用户信息查询接口、视频列表接口、订单接口等模块的开发。
   
-  （正在部署阿里云服务器）
+ -  部署：阿里云CentOS7+Nginx
+ （访问地址：web.libo1409.com）
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 技能证书
 
-- 通过了 CET4 英语等级考试 CET6 396分
-- 通过了 计算机二级 等级考试
-- 普通话水平测试等级证书
+- 通过了 CET4 英语等级考试 
+- CET6 396分
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
-- ★★★ Java
-- ★★☆ MySQL
-- ★★☆ Mybatis
-- ★★☆ Spring
-- ★★☆ SpringBoot
-- ★☆☆ JavaScript
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 个人评价
 
-- 工作积极认真，细心负责，善于在工作中提出问题、发现问题、解决问题；勤奋好学，踏实肯干，动手能力强，认真负责，自学能力强。
-善于与人沟通，有较强的团队合作精神，吃苦耐劳，追求完美。
+- 工作积极认真，细心负责，勤奋好学，踏实肯干，动手能力强，自学能力强
+- 善于与人沟通，有较强的团队合作精神，坚持锻炼，身体健康，吃苦耐劳
 
   
