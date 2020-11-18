@@ -36,12 +36,10 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ MySQL
-- ★★☆ Mybatis
-- ★★☆ Spring
-- ★★☆ SpringBoot
-- ★☆☆ JavaScript
+- 熟悉Java语言，Java集合类，Java并发，Java虚拟机
+- 了解数据库系统原理，MySQL，Mybatis, Spring, SpringBoot
+- 熟悉计算机网络，数据结构，操作系统
+- 了解阿里云项目部署，Linux命令
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -51,7 +49,7 @@
   
  - *前端：Vue+CubeUI+Axios+Vuex*
   
- -  项目主要是以小滴课堂为模板进行开发，前端实现视频列表展示、下单模块、个人信息展示，后端主要完成用户登录注册接口、用户信息查询接口、视频列表接口、订单接口等模块的开发。
+ -  项目主要是以小滴课堂为模板进行开发，前端实现视频列表展示、下单模块、个人信息展示，后端主要完成各个接口模块的开发。
   
  -  部署：阿里云CentOS7+Nginx
  （访问地址：web.libo1409.com）
